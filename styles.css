@@ -1,0 +1,95 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.join {
+  color: rgb(0, 255, 242);
+  font-size: 80px;
+  padding-left: 1%;
+  margin-left: 2%;
+}
+
+.aa1 {
+  color: greenyellow;
+  margin: 3%;
+  font-size: 50px;
+}
+
+.paa {
+  color: grey;
+  margin: 3%;
+  font-size: 40px;
+}
+
+.part1 {
+  margin: 2%;
+  padding: 0% 1%;
+  background-color: white;
+}
+
+.part2 {
+  width: 50%;
+  height: 400px;
+  background-color: rgb(135, 235, 227);
+  float: left;
+}
+
+.part3 {
+  width: 50%;
+  height: 400px;
+  background-color: rgb(135, 235, 173);
+  float: right;
+}
+
+.sub1 {
+  margin: 40px 3% 30px 80px;
+  text-align: justify;
+  font-size: 40px;
+  color: whitesmoke;
+}
+
+.per {
+  margin: 15px 3% 30px 0px;
+  font-size: 30px;
+  color: rgb(250, 228, 228);
+}
+
+.sub2a {
+  margin: 4% 79px;
+  text-align: justify;
+  font-size: 35px;
+  color: white;
+}
+
+.Doller {
+  margin: 4% 15px 4% 79px;
+  font-size: 60px;
+  color: white;
+}
+
+.sub3 {
+  margin: 15px 3% 30px 80px;
+  text-align: center;
+  background-color: greenyellow;
+  font-size: 25px;
+  color: white;
+  padding: 25px 250px;
+  border-color: transparent;
+  border-radius: 5px;
+}
+
+.why {
+  margin: 40px 3% 20px 80px;
+  text-align: justify;
+  font-size: 40px;
+  color: white;
+}
+
+.para {
+  margin: 30px 3% 40px 80px;
+  text-align: justify;
+  color: whitesmoke;
+  font-size: 32px;
+}
